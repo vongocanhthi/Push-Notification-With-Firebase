@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523746147632",
+    "firebase_url": "https://push-notification-52c44.firebaseio.com",
+    "project_id": "push-notification-52c44",
+    "storage_bucket": "push-notification-52c44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523746147632:android:6b7e4cf613d2ed36895cf5",
+        "android_client_info": {
+          "package_name": "com.vnat.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523746147632-e8n9svomuj5sma9gshq1m2f2u4s13hk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZLdDND-fDAoGxaG0SCMRdQ6KSIpYFBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523746147632-e8n9svomuj5sma9gshq1m2f2u4s13hk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
